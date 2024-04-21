@@ -1,7 +1,7 @@
 #импортируем библиотеку 
 import telebot 
 #наш токен 
-from bote import TOKEN 
+from bot_token import TOKEN 
 
 bot = telebot.TeleBot(TOKEN)
 
